@@ -240,7 +240,7 @@ browser is limited, which results in your karma tests running extremely slow.
 
           $scope.name = "World";
 
-  Then add a new binding to `index.html`:
+  Then add the new binding to `index.html`:
 
           <p>Hello, {{name}}!</p>
 
